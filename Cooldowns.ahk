@@ -85,3 +85,7 @@ return
 GuiClose:
 ExitApp
 return
+
+^L::
+Reload
+return
