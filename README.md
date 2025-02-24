@@ -1,4 +1,3 @@
-# everything below is wip
 # ForsakenAHKScripts
 "collection" of scripts for popular game on Roblox
 i'm not responsible for any bans or whatnot i'm just kinda messing around
