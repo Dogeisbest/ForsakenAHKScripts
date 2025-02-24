@@ -20,6 +20,7 @@ open AutoHotkey Dash, click compile, then select the ExhaustionAvoidance.ahk fil
 just create an issue on the top of this thing and i'll probably be able to fix it for you
 
 2. will this get me banned
+
 nah
 this is basically undetectable and doesn't insert any scripts into the Roblox client anyway
 also you're just using information the game gives you
